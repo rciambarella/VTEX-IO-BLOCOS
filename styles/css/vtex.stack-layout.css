@@ -5,7 +5,3 @@
     align-items: center;
     justify-content: center;
   }
-
-  .imageElement--cover {
-    object-fit: cover;
-  }

@@ -24,7 +24,7 @@
             ]
         },
         "children": [
-            "image#retro-mixer-banner"
+           //"image#retro-mixer-banner"
         ]
     },
     // fim conditional layout
